@@ -1,11 +1,11 @@
 # DataAnalysis-fundamentals
 Work developed in the scope of "Fundamentals of Data Analysis" module
 
+Task 1:
+Collatz algorithm
+
+Task 2:
+Types of variables on data set penguins.csv
 
 
--This is a test to verify if I am getting the upload from VS right to the GitHub plataform
-
-- Let give a different try
-
-
--verify the commitall modification
+Task 3:
