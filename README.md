@@ -20,3 +20,12 @@ Task 5:
 Plot all the variables in adequate plots. 
   Variables: histogram with probability density function - normal distribution selected
   Categorical: bar plot for each one of the 3 variables
+
+
+  PROJECT:
+
+  To do:
+  - which plots do make sense for each variable?
+  - refer that some variables do work as a distinctors between setosa and the other 2 classes
+  - describe better the variables, what to do with the mathematical descriptors?
+  
