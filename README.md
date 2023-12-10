@@ -25,7 +25,5 @@ Plot all the variables in adequate plots.
   PROJECT:
 
   To do:
-  - which plots do make sense for each variable?
-  - refer that some variables do work as a distinctors between setosa and the other 2 classes
-  - describe better the variables, what to do with the mathematical descriptors?
-  
+- Read to apply more types of graphs- 
+- review classes and see if any topic that was coverd can be applyed on the project that I migh be missing here
