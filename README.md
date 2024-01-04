@@ -5,10 +5,11 @@ Work developed in the scope of "Fundamentals of Data Analysis" module
 
 by Andreia Santos
 Student Id: G00425673
-DATE: JAnuary, 3rd 2024
+DATE: January, 3rd 2024
 
 
-=============================== TASKs =====================================
+
+## =============================== TASKs =====================================
 
 Task 1:
 Collatz algorithm
@@ -33,40 +34,38 @@ For numerical variables: Create histograms with a probability density function u
 For categorical variables: Generate bar plots for each of the three variables
 
 
-=============================== PROJECT =====================================
+## =============================== PROJECT =====================================
 
-Executive Summary:
+### Executive Summary:
     The repository contains Python code analyzing the Iris dataset with details on 150 flowers across three species: Setosa, Versicolor, and Virginica. Each species has 50 flowers, and the dataset logs four numerical descriptors (sepal length, sepal width, petal length, and petal width) for every flower.
 
 
-Purpose:
+### Purpose:
     The code conducts exploratory data analysis (EDA) on the Iris dataset, aiming to:
 
 
-Characterize the dataset's variables and their types.
+### Characterize the dataset's variables and their types.
     Clean the dataset to handle missing values (if any).
     Perform mathematical descriptions of the continuous variables.
     Visualize relationships between variables and explore their impact on flower species using graphs and statistical summaries.
     Instructions to Close and Run Code/Notebooks:
 
 
-Setup:
+### Setup:
     Confirm the presence of Python on your system. 
+    The Jupiter notebook can be run on Visual Studio Code Software or run online following the instruction on https://jupyter.org/try-jupyter/notebooks/?path=notebooks/Intro.ipynb
+    Repository must be cloned or download prior to the accessement  from the provided URL.
     Install the necessary libraries: pandas, matplotlib, seaborn, and scikit-learn.
 
 
-Clone the Repository:
-  Clone or download the repository from the provided URL.
-
-
-Run the Code:
+### Run the Code:
 
     Access the Python script or Jupyter Notebook containing the code.
     Verify that the 'iris.csv' dataset file is located in the code's directory.
     Execute the code cells in sequence to observe the analysis and visualizations.
 
 
-Understanding the Analysis:
+### Understanding the Analysis:
 
     The code first imports necessary libraries and loads the Iris dataset.
 
@@ -75,12 +74,12 @@ Understanding the Analysis:
     The interpretation phase covers findings on correlations, dataset distributions, and class-specific variations derived from these visualizations.
 
 
-Closing the Code/Notebook:
+### Closing the Code/Notebook:
 
     Save any changes made during the analysis.
     Close the code editor or Jupyter Notebook.
 
 
-Additional Notes:
+### Additional Notes:
 
   The code comments and markdown sections offer comprehensive explanations for each step of the analysis.
