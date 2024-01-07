@@ -82,4 +82,6 @@ For categorical variables: Generate bar plots for each of the three variables
 
 ### Additional Notes:
 
-  The code comments and markdown sections offer comprehensive explanations for each step of the analysis.
+The code comments and markdown sections offer comprehensive explanations for each step of the analysis.
+ All the generated plots and tables are stored in the "images" folder within the current directory.
+The datasets utilized for both the project and tasks are saved in the "data" folder within the same directory.
